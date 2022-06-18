@@ -2,7 +2,7 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am a Big Data/BI, Data Scientist and Machine Learning Engineer. Currently I am a freelancer and a researcher.
+### I am a Big Data/Data Engineer/BI, Data Scientist and Machine Learning Engineer. Currently I am a freelancer and a researcher.
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Software Engineering.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
