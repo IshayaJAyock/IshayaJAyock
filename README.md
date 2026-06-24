@@ -2,12 +2,12 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am a Big Data/Data Engineer/BI, Data Scientist and Machine Learning Engineer. Currently I am a freelancer and a researcher.
-- 🔭 I just tried to make a readme file for my github account.<br />
+### I am a Big Data/Data Engineer/BI, Data Scientist and Machine Learning Engineer. Currently, I am a freelancer and a researcher.
+- 🔭 I just tried to make a README file for my GitHub account.<br />
 - 🌱 I’m currently learning Software Engineering.<br />
-- 👯 I’m wanting to create more awesome projects.<br />
+- 👯 I want to create more awesome projects.<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love computing, watching scientific movies and i love sport(table tennis and swimming).
+- ⚡ Fun fact: I love computing, watching scientific movies, and I love sports (table tennis and swimming).
 <br/>
 <hr/>
 
